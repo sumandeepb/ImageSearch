@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<dbpath>./cdcover</dbpath>
+<dbname>cdcover</dbname>
+<maxwidth>640</maxwidth>
+<maxheight>480</maxheight>
+<numtopmatches>5</numtopmatches>
+<socket>./searchsocket</socket>
+</opencv_storage>
